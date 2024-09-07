@@ -1,1 +1,1 @@
-This repository will have FP lab assignmets
+This repository will have FP lab assignmets.
